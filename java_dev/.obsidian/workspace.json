@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "222dcb6647f019dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "061f9483956c619a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee5852287344592c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f904b10d36496bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad07400c3ccef988",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2255f773c9bace5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d209f278f9f296b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7fa825c4a58c6d3d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b7c633c99c3bc49",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cd94d762dffe0d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a72630617ae02cb1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "15ddd38afa2d3eb3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e9e8fc4307c83c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a7c74d15153b5a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "2255f773c9bace5a",
+  "lastOpenFiles": [
+    "docker/创建容器.md",
+    "docker/更换镜像源.md",
+    "星球直播笔记-用户中心/用户中心_环境搭建.md",
+    "docker",
+    "未命名 1.md",
+    "星球直播笔记-用户中心"
+  ]
+}

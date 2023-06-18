@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "4eae34c8fbb4fe9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2190b570db8c1208",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "679c43715cdd9b05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f9536dcddce424a",
+    "type": "split",
+    "children": [
+      {
+        "id": "05fba23ccf554a46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b4fcf2a83999f6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "23593cedc02a45ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a0384d85e5adb0a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "13e11ab4e6ead84f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5da24c50ee848e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d950883576a14897",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git/git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e82f0f777c53452",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git/git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2360f0bd075dfdbb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c81541122f5c7f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git/git.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8b4fcf2a83999f6b",
+  "lastOpenFiles": [
+    "New folder",
+    "git/images/image-20230207220109094.png",
+    "git/git.md",
+    "git/images",
+    "docker/实例：Django项目部署.md",
+    "git/images/image-20230207215912916.png",
+    "git/images/image-20230207215455051-16757780975131.png",
+    "git/images/image-20230207215455051.png",
+    "git/images/image-20230207214725468.png",
+    "git",
+    "docker/自定义镜像.md",
+    "docker/docker管理.md",
+    "docker/更换镜像源.md",
+    "docker/创建容器.md",
+    "docker"
+  ]
+}
