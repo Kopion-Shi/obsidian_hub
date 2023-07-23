@@ -48,5 +48,26 @@ RUN pip3.9 config set global.index-url Https://pypi.douban.com/simple
 
 ##git 
 RUN yum install git -y
-RUN git con
+
+##git拉取代码
+WORKDIR /data/
+RUN git clone https://gitee.com/wupeiqi/blog.git
+
+##虚拟环境
+RUN pip3.9 install virtualenv
+RUN virtualenv /envs/dj --python=python3.9
+RUN /envs/dj/bin/pip3.9 install django==3.2
+
+##运行项目
+WORKDIR /data/blog
+
+CMD ["/envs/dj/bin/python","manage.py","runserver","0.0.0.0:9000"]
+```
+3. 构建
+```shell
+docker build -t sxl/dj:1.0  . -f Dockerfile_study
+```
+4. 运行
+```shell
+docker run -d -p 80:9000 sxl/dj:1.0
 ```

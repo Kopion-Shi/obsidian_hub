@@ -11,11 +11,28 @@
             "id": "f3d0459e05745be9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "项目实战/代码发布系统.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a033a08fc08f0e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django/Model.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Django/Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Django/Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Django/Model.md"
+              }
             }
           }
         ]
@@ -138,6 +159,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f3d0459e05745be9",
-  "lastOpenFiles": []
+  "active": "7a033a08fc08f0e1",
+  "lastOpenFiles": [
+    "项目实战/《Django企业开发实战》/Dev_typeidea.md",
+    "Django/Model.md",
+    "Django",
+    "项目实战/《Django企业开发实战》/Django文档.md",
+    "项目实战/《Django企业开发实战》/demo_学院管理系统.md",
+    "项目实战/轻量级bug管理平台/Saas平台.md",
+    "数据库/数据库信息.md",
+    "数据库/images/Pasted image 20230722164201.png",
+    "数据库/images",
+    "数据库/Mysql语句.md",
+    "项目实战/《Django企业开发实战》/images/Pasted image 20230716143456.png",
+    "项目实战/《Django企业开发实战》/images/Pasted image 20230716131207.png",
+    "项目实战/《Django企业开发实战》/images/Pasted image 20230716130009.png",
+    "项目实战/《Django企业开发实战》/images",
+    "项目实战/轻量级bug管理平台/images/Pasted image 20230624201704.png",
+    "项目实战/轻量级bug管理平台/images/Pasted image 20230624133134.png",
+    "项目实战/代码发布系统.md",
+    "项目实战/《Django企业开发实战》",
+    "项目实战/轻量级bug管理平台/环境准备.md",
+    "项目实战/轻量级bug管理平台/images/Pasted image 20230624132834.png",
+    "项目实战/轻量级bug管理平台/Pasted image 20230624132749.png",
+    "项目实战/轻量级bug管理平台/images",
+    "项目实战/轻量级bug管理平台",
+    "多进程/队列.md",
+    "数据库",
+    "未命名.md",
+    "多进程",
+    "项目实战"
+  ]
 }

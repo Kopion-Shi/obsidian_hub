@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/git.md",
+                "file": "docker/实例：Django项目部署.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git.md",
+                "file": "docker/实例：Django项目部署.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git.md",
+                "file": "docker/实例：Django项目部署.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git.md"
+                "file": "docker/实例：Django项目部署.md"
               }
             }
           }
@@ -146,22 +146,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8b4fcf2a83999f6b",
+  "active": "679c43715cdd9b05",
   "lastOpenFiles": [
+    "docker/自定义镜像.md",
+    "docker/docker管理.md",
+    "docker/创建容器.md",
+    "docker/更换镜像源.md",
+    "docker/实例：Django项目部署.md",
+    "git/git.md",
     "New folder",
     "git/images/image-20230207220109094.png",
-    "git/git.md",
     "git/images",
-    "docker/实例：Django项目部署.md",
     "git/images/image-20230207215912916.png",
     "git/images/image-20230207215455051-16757780975131.png",
     "git/images/image-20230207215455051.png",
     "git/images/image-20230207214725468.png",
     "git",
-    "docker/自定义镜像.md",
-    "docker/docker管理.md",
-    "docker/更换镜像源.md",
-    "docker/创建容器.md",
     "docker"
   ]
 }
