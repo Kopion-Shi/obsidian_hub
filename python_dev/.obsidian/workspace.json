@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "17e35251e68a6b01",
+        "id": "b3ee268a89a56e2f",
         "type": "tabs",
         "children": [
           {
-            "id": "f3d0459e05745be9",
+            "id": "c47e21c7c8512902",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目实战/代码发布系统.md",
+                "file": "项目实战/Vue+Drf项目系列/2.前端搭建.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7a033a08fc08f0e1",
+            "id": "a21cf635c0d8ea87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Model.md",
+                "file": "项目实战/Vue+Drf项目系列/1.后端准备.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Model.md",
+                "file": "项目实战/Vue+Drf项目系列/1.后端准备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Model.md",
+                "file": "项目实战/Vue+Drf项目系列/1.后端准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Model.md"
+                "file": "项目实战/Vue+Drf项目系列/1.后端准备.md"
+              }
+            }
+          },
+          {
+            "id": "0ba9076a6162af1a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -159,35 +169,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7a033a08fc08f0e1",
+  "active": "a21cf635c0d8ea87",
   "lastOpenFiles": [
-    "项目实战/《Django企业开发实战》/Dev_typeidea.md",
-    "Django/Model.md",
-    "Django",
-    "项目实战/《Django企业开发实战》/Django文档.md",
-    "项目实战/《Django企业开发实战》/demo_学院管理系统.md",
-    "项目实战/轻量级bug管理平台/Saas平台.md",
+    "项目实战/Vue+Drf项目系列/B站视频跟练/all.assets/image-20231002125134842.png",
+    "项目实战/Vue+Drf项目系列/B站视频跟练/all.assets/image-20231002124957144.png",
+    "项目实战/Vue+Drf项目系列/B站视频跟练/all.assets/image-20231002122227835.png",
+    "项目实战/Vue+Drf项目系列/B站视频跟练/all.assets",
+    "项目实战/Vue+Drf项目系列/B站视频跟练/all.md",
+    "项目实战/Vue+Drf项目系列/B站视频跟练",
+    "项目实战/Vue+Drf项目系列/Untitled Folder",
+    "项目实战/Vue+Drf项目系列/4.xadmin插件.md",
+    "项目实战/Vue+Drf项目系列/3.后端home接口.md",
+    "项目实战/Vue+Drf项目系列/1.后端准备.md",
+    "项目实战/Vue+Drf项目系列/2.前端搭建.md",
     "数据库/数据库信息.md",
-    "数据库/images/Pasted image 20230722164201.png",
-    "数据库/images",
     "数据库/Mysql语句.md",
-    "项目实战/《Django企业开发实战》/images/Pasted image 20230716143456.png",
-    "项目实战/《Django企业开发实战》/images/Pasted image 20230716131207.png",
-    "项目实战/《Django企业开发实战》/images/Pasted image 20230716130009.png",
-    "项目实战/《Django企业开发实战》/images",
-    "项目实战/轻量级bug管理平台/images/Pasted image 20230624201704.png",
-    "项目实战/轻量级bug管理平台/images/Pasted image 20230624133134.png",
-    "项目实战/代码发布系统.md",
-    "项目实战/《Django企业开发实战》",
-    "项目实战/轻量级bug管理平台/环境准备.md",
-    "项目实战/轻量级bug管理平台/images/Pasted image 20230624132834.png",
-    "项目实战/轻量级bug管理平台/Pasted image 20230624132749.png",
-    "项目实战/轻量级bug管理平台/images",
-    "项目实战/轻量级bug管理平台",
-    "多进程/队列.md",
-    "数据库",
-    "未命名.md",
-    "多进程",
-    "项目实战"
+    "数据库/images/Pasted image 20230722164201.png",
+    "项目实战/Vue+Drf项目系列/25.git ignore.md",
+    "项目实战/Vue+Drf项目系列/Untitled.md",
+    "项目实战/Vue+Drf项目系列/24上线.md",
+    "项目实战/Vue+Drf项目系列/23.项目中使用沙箱环境支付宝.assets/1407587-20191220132937955-1519612504.png",
+    "项目实战/Vue+Drf项目系列/23.项目中使用沙箱环境支付宝.assets/1407587-20191220132937955-1519612504-169604043781980.png",
+    "项目实战/Vue+Drf项目系列/23.项目中使用沙箱环境支付宝.assets",
+    "项目实战/Vue+Drf项目系列/23.项目中使用沙箱环境支付宝.md",
+    "项目实战/Vue+Drf项目系列/22.跨域请求详解.md",
+    "项目实战/Vue+Drf项目系列/21.支付宝简单使用.assets/1407587-20191220132534363-199484953.png",
+    "项目实战/Vue+Drf项目系列/21.支付宝简单使用.assets/1407587-20191220132534363-199484953-169604036925977.png",
+    "项目实战/Vue+Drf项目系列/21.支付宝简单使用.assets/1407587-20191220132541629-2017909317.png",
+    "项目实战/Vue+Drf项目系列/21.支付宝简单使用.assets/1407587-20191220132541629-2017909317-169604036925976.png",
+    "项目实战/Vue+Drf项目系列/21.支付宝简单使用.assets",
+    "项目实战/Vue+Drf项目系列/21.支付宝简单使用.md",
+    "项目实战/Vue+Drf项目系列/20.课程详细内容页面以及接口.md",
+    "项目实战/Vue+Drf项目系列/19.Vue中使用定时器.md",
+    "项目实战/Vue+Drf项目系列/19,Vue中使用定时器.md",
+    "项目实战/Vue+Drf项目系列/18.时间相关.md",
+    "项目实战/Vue+Drf项目系列/17.vue打开新的标签页+动态渲染标题.md",
+    "项目实战/Vue+Drf项目系列/16.vue-video-player.assets/1407587-20191217114730188-543515937.png",
+    "项目实战/Vue+Drf项目系列/16.vue-video-player.assets",
+    "项目实战/Vue+Drf项目系列/16.vue-video-player.md",
+    "项目实战/Vue+Drf项目系列/16,vue-video-player.md",
+    "项目实战/Vue+Drf项目系列/15,课程页面以及接口完成.assets",
+    "项目实战/Vue+Drf项目系列/15,课程页面以及接口完成.md",
+    "项目实战/Vue+Drf项目系列/14.Celery.assets",
+    "项目实战/Vue+Drf项目系列/14.Celery.md",
+    "项目实战/Vue+Drf项目系列/14..md",
+    "项目实战/Vue+Drf项目系列/13.登录注册接口完善.md",
+    "项目实战/Vue+Drf项目系列/12.自定义web token验证.md",
+    "项目实战/Vue+Drf项目系列/10.redis数据库.assets",
+    "项目实战/Vue+Drf项目系列/9.阿里云短信验证.assets"
   ]
 }
