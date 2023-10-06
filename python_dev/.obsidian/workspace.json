@@ -11,12 +11,8 @@
             "id": "c47e21c7c8512902",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目实战/Vue+Drf项目系列/2.前端搭建.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -25,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目实战/Vue+Drf项目系列/1.后端准备.md",
+                "file": "tools/虚拟机常见问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目实战/Vue+Drf项目系列/1.后端准备.md",
+                "file": "tools/虚拟机常见问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目实战/Vue+Drf项目系列/1.后端准备.md",
+                "file": "tools/虚拟机常见问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目实战/Vue+Drf项目系列/1.后端准备.md"
+                "file": "tools/虚拟机常见问题.md"
               }
             }
           },
@@ -171,19 +167,23 @@
   },
   "active": "a21cf635c0d8ea87",
   "lastOpenFiles": [
+    "项目实战/Vue+Drf项目系列/博客园文章/1.后端准备.md",
+    "tools/虚拟机常见问题.md",
+    "项目实战/Vue+Drf项目系列/博客园文章/2.前端搭建.md",
+    "项目实战/Vue+Drf项目系列/B站视频跟练/all.md",
+    "项目实战/Vue+Drf项目系列/博客园文章/4.xadmin插件.md",
+    "数据库/数据库信息.md",
+    "数据库/Mysql语句.md",
+    "项目实战/Vue+Drf项目系列/1.后端准备.md",
     "项目实战/Vue+Drf项目系列/B站视频跟练/all.assets/image-20231002125134842.png",
     "项目实战/Vue+Drf项目系列/B站视频跟练/all.assets/image-20231002124957144.png",
     "项目实战/Vue+Drf项目系列/B站视频跟练/all.assets/image-20231002122227835.png",
     "项目实战/Vue+Drf项目系列/B站视频跟练/all.assets",
-    "项目实战/Vue+Drf项目系列/B站视频跟练/all.md",
     "项目实战/Vue+Drf项目系列/B站视频跟练",
     "项目实战/Vue+Drf项目系列/Untitled Folder",
     "项目实战/Vue+Drf项目系列/4.xadmin插件.md",
     "项目实战/Vue+Drf项目系列/3.后端home接口.md",
-    "项目实战/Vue+Drf项目系列/1.后端准备.md",
     "项目实战/Vue+Drf项目系列/2.前端搭建.md",
-    "数据库/数据库信息.md",
-    "数据库/Mysql语句.md",
     "数据库/images/Pasted image 20230722164201.png",
     "项目实战/Vue+Drf项目系列/25.git ignore.md",
     "项目实战/Vue+Drf项目系列/Untitled.md",
@@ -204,7 +204,6 @@
     "项目实战/Vue+Drf项目系列/19,Vue中使用定时器.md",
     "项目实战/Vue+Drf项目系列/18.时间相关.md",
     "项目实战/Vue+Drf项目系列/17.vue打开新的标签页+动态渲染标题.md",
-    "项目实战/Vue+Drf项目系列/16.vue-video-player.assets/1407587-20191217114730188-543515937.png",
     "项目实战/Vue+Drf项目系列/16.vue-video-player.assets",
     "项目实战/Vue+Drf项目系列/16.vue-video-player.md",
     "项目实战/Vue+Drf项目系列/16,vue-video-player.md",
@@ -212,9 +211,6 @@
     "项目实战/Vue+Drf项目系列/15,课程页面以及接口完成.md",
     "项目实战/Vue+Drf项目系列/14.Celery.assets",
     "项目实战/Vue+Drf项目系列/14.Celery.md",
-    "项目实战/Vue+Drf项目系列/14..md",
-    "项目实战/Vue+Drf项目系列/13.登录注册接口完善.md",
-    "项目实战/Vue+Drf项目系列/12.自定义web token验证.md",
     "项目实战/Vue+Drf项目系列/10.redis数据库.assets",
     "项目实战/Vue+Drf项目系列/9.阿里云短信验证.assets"
   ]
