@@ -1,3 +1,9 @@
 {
-  "attachmentFolderPath": "./images"
+  "attachmentFolderPath": "./",
+  "propertiesInDocument": "hidden",
+  "autoConvertHtml": false,
+  "newFileLocation": "root",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "showUnsupportedFiles": false
 }

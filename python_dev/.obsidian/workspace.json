@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b3ee268a89a56e2f",
+        "id": "572e97af40608358",
         "type": "tabs",
         "children": [
           {
-            "id": "c47e21c7c8512902",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a21cf635c0d8ea87",
+            "id": "9a72e0d73b39ce89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/虚拟机常见问题.md",
+                "file": "tools/数据库/mysql/单表查询.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/虚拟机常见问题.md",
+                "file": "tools/数据库/mysql/单表查询.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/虚拟机常见问题.md",
+                "file": "tools/数据库/mysql/单表查询.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/虚拟机常见问题.md"
+                "file": "tools/数据库/mysql/单表查询.md"
               }
             }
           },
@@ -165,53 +156,55 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a21cf635c0d8ea87",
+  "active": "9a72e0d73b39ce89",
   "lastOpenFiles": [
-    "项目实战/Vue+Drf项目系列/博客园文章/1.后端准备.md",
-    "tools/虚拟机常见问题.md",
-    "项目实战/Vue+Drf项目系列/博客园文章/2.前端搭建.md",
-    "项目实战/Vue+Drf项目系列/B站视频跟练/all.md",
-    "项目实战/Vue+Drf项目系列/博客园文章/4.xadmin插件.md",
-    "数据库/数据库信息.md",
-    "数据库/Mysql语句.md",
-    "项目实战/Vue+Drf项目系列/1.后端准备.md",
-    "项目实战/Vue+Drf项目系列/B站视频跟练/all.assets/image-20231002125134842.png",
-    "项目实战/Vue+Drf项目系列/B站视频跟练/all.assets/image-20231002124957144.png",
-    "项目实战/Vue+Drf项目系列/B站视频跟练/all.assets/image-20231002122227835.png",
-    "项目实战/Vue+Drf项目系列/B站视频跟练/all.assets",
-    "项目实战/Vue+Drf项目系列/B站视频跟练",
-    "项目实战/Vue+Drf项目系列/Untitled Folder",
-    "项目实战/Vue+Drf项目系列/4.xadmin插件.md",
-    "项目实战/Vue+Drf项目系列/3.后端home接口.md",
-    "项目实战/Vue+Drf项目系列/2.前端搭建.md",
-    "数据库/images/Pasted image 20230722164201.png",
-    "项目实战/Vue+Drf项目系列/25.git ignore.md",
-    "项目实战/Vue+Drf项目系列/Untitled.md",
-    "项目实战/Vue+Drf项目系列/24上线.md",
-    "项目实战/Vue+Drf项目系列/23.项目中使用沙箱环境支付宝.assets/1407587-20191220132937955-1519612504.png",
-    "项目实战/Vue+Drf项目系列/23.项目中使用沙箱环境支付宝.assets/1407587-20191220132937955-1519612504-169604043781980.png",
-    "项目实战/Vue+Drf项目系列/23.项目中使用沙箱环境支付宝.assets",
-    "项目实战/Vue+Drf项目系列/23.项目中使用沙箱环境支付宝.md",
-    "项目实战/Vue+Drf项目系列/22.跨域请求详解.md",
-    "项目实战/Vue+Drf项目系列/21.支付宝简单使用.assets/1407587-20191220132534363-199484953.png",
-    "项目实战/Vue+Drf项目系列/21.支付宝简单使用.assets/1407587-20191220132534363-199484953-169604036925977.png",
-    "项目实战/Vue+Drf项目系列/21.支付宝简单使用.assets/1407587-20191220132541629-2017909317.png",
-    "项目实战/Vue+Drf项目系列/21.支付宝简单使用.assets/1407587-20191220132541629-2017909317-169604036925976.png",
-    "项目实战/Vue+Drf项目系列/21.支付宝简单使用.assets",
-    "项目实战/Vue+Drf项目系列/21.支付宝简单使用.md",
-    "项目实战/Vue+Drf项目系列/20.课程详细内容页面以及接口.md",
-    "项目实战/Vue+Drf项目系列/19.Vue中使用定时器.md",
-    "项目实战/Vue+Drf项目系列/19,Vue中使用定时器.md",
-    "项目实战/Vue+Drf项目系列/18.时间相关.md",
-    "项目实战/Vue+Drf项目系列/17.vue打开新的标签页+动态渲染标题.md",
-    "项目实战/Vue+Drf项目系列/16.vue-video-player.assets",
-    "项目实战/Vue+Drf项目系列/16.vue-video-player.md",
-    "项目实战/Vue+Drf项目系列/16,vue-video-player.md",
-    "项目实战/Vue+Drf项目系列/15,课程页面以及接口完成.assets",
-    "项目实战/Vue+Drf项目系列/15,课程页面以及接口完成.md",
-    "项目实战/Vue+Drf项目系列/14.Celery.assets",
-    "项目实战/Vue+Drf项目系列/14.Celery.md",
-    "项目实战/Vue+Drf项目系列/10.redis数据库.assets",
-    "项目实战/Vue+Drf项目系列/9.阿里云短信验证.assets"
+    "flask/images/image-20231224134855710.png",
+    "flask/images/image-20211227110323064-170339662289524.png",
+    "flask/images/image-20211227102558619-170339662289523.png",
+    "flask/images/image-20211227110308570-170339662289522.png",
+    "flask/images/image-20211227105605185-170339662289521.png",
+    "flask/images/image-20211025185200357-170339662289520.png",
+    "flask/7.http会话控制.md",
+    "flask/Untitled.md",
+    "flask/6.请求和响应.md",
+    "flask/5.flask终端运行.md",
+    "flask/4.路由.md",
+    "flask/images/image-20220928203453529-170339089273918.png",
+    "flask/3.项目创建.md",
+    "flask/images/image-20211025153740563-170339080433915.png",
+    "flask/images/image-20211025153639383-170339080433014.png",
+    "flask/2.环境 准备.md",
+    "flask/images/logo-full-170339077349111.png",
+    "flask/images/logo-full-170339077349111-170339077349112.png",
+    "flask/简介.md",
+    "flask/1.简介.md",
+    "flask/images",
+    "tools/数据库/mysql/单表查询.md",
+    "flask",
+    "tools/数据库/mysql/授权管理.md",
+    "tools/数据库/mysql/Untitled.md",
+    "tools/数据库/mysql/多表查询.md",
+    "tools/数据库/mysql/images",
+    "tools/数据库/未命名.md",
+    "tools/数据库/mysql",
+    "未命名.canvas",
+    "tools/数据库/redis/未命名",
+    "2023-12-10.md",
+    "项目实战/Vue+Drf项目系列/路飞课程/路飞学城在线教育平台/11.购物车的实现.md",
+    "项目实战/Vue+Drf项目系列/路飞课程/路飞学城在线教育平台/10.课程列表页.md",
+    "项目实战/Vue+Drf项目系列/路飞课程/路飞学城在线教育平台/99.项目部署.md",
+    "项目实战/Vue+Drf项目系列/路飞课程/路飞学城在线教育平台/ngix详解.md",
+    "项目实战/Vue+Drf项目系列/路飞课程/路飞学城在线教育平台/Untitled.md",
+    "项目实战/Vue+Drf项目系列/路飞课程/未命名.md",
+    "项目实战/Vue+Drf项目系列/路飞课程/路飞学城在线教育平台/9.用户的注册认证.md",
+    "tools/docker/Docker.md",
+    "tools/docker/搭建ubuntu开发环境.md",
+    "tools/docker/Docker安装Rabbitmq超详细教程.md",
+    "Django/images",
+    "tools/Rabbitmq/images/f109e908fc864cff8f1847f5f44ae160-16990856082892.png#pic_center",
+    "tools/Rabbitmq/images/982edc64784d40b28d47b943020c420c-16990856082891.png#pic_center",
+    "tools/Rabbitmq/images",
+    "tools/Rabbitmq",
+    "项目实战/Vue+Drf项目系列/路飞课程/路飞学城在线教育平台/未命名.canvas"
   ]
 }

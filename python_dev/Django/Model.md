@@ -28,7 +28,7 @@ django对应到Mysql中有两种类型：longtext和varchar。
 - EmailField。同URLfield一样继承自CharField，多了对email的特殊处理。
 - FileField。同URLField一样，它继承自CharField，对了对文件的特殊处理。
 - TextField对应longtext。一般用于存放大量文本内容，比如新闻正文、博客正文。
-- ImageField。继承自FileField，用来处理[图片](https://link.zhihu.com/?target=http%3A//www.zzvips.com/qq/tp/)相关的数据，在展示上会有所不同。
+- ImageField。继承自FileField，用来处理图片相关的数据，在展示上会有所不同。
 
 **三、日期类型**
 
@@ -332,7 +332,33 @@ categories= Category.objects.annotate(posts_count=Count ('post'))
 
 
 
+### on_delete的参数意义
 
+```
+on_delete=None,               # 删除关联表中的数据时,当前表与其关联的field的行为
+on_delete=models.CASCADE,     # 删除关联数据,与之关联也删除
+on_delete=models.DO_NOTHING,  # 删除关联数据,什么也不做
+on_delete=models.PROTECT,     # 删除关联数据,引发错误ProtectedError
+# models.ForeignKey('关联表', on_delete=models.SET_NULL, blank=True, null=True)
+on_delete=models.SET_NULL,    # 删除关联数据,与之关联的值设置为null（前提FK字段需要设置为可空,一对一同理）
+# models.ForeignKey('关联表', on_delete=models.SET_DEFAULT, default='默认值')
+on_delete=models.SET_DEFAULT, # 删除关联数据,与之关联的值设置为默认值（前提FK字段需要设置默认值,一对一同理）
+on_delete=models.SET,         # 删除关联数据,
+ a. 与之关联的值设置为指定值,设置：models.SET(值)
+ b. 与之关联的值设置为可执行对象的返回值,设置：models.SET(可执行对象)
+————————————————
+版权声明：本文为CSDN博主「buxianghejiu」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/buxianghejiu/article/details/79086011
+```
+
+### 外键的设置
+
+```
+related_name： related_name将是相关对象的属性，它允许您“向后”到带有外键的模型。例如，如果ModelA有这样的字段：
+author = models.ForeignKey(Author, verbose_name=‘作者’，related_name=‘bs’)，这将使您能够通过 bs 访问与您的 Author 实例相关的实例bs_instance.model_as.all(), 但是需要注意一点的是这一般是用复数表示外键， 因为外键是一对多的关系， 该方式其实是声明外键字段的模型， 如果没有声明则是表明加下划线_set, 如：author_set。
+related_query_name： related_query_name用于 Django 查询集。它允许您过滤外键相关字段的反向关系。如：有一个字段 author = models.ForeignKey(Author, verbose_name=‘作者’, related_name=‘bs’, related_query_name=‘b’) 将使您能够b在查询集中用作查找参数，例如：Author.objects.filter(b__name=‘whatever’)。它将使用单数形式 related_query_name。
+原文链接：https://blog.csdn.net/qq_39253370/article/details/119984347
+```
 
 
 
