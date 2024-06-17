@@ -139,8 +139,8 @@ refs        引用信息
 #### 配置用户名和邮箱
 
 ```
-git config --global user.name 'lisi'
-git config --global user.email 'lisi@163.com'
+git config --global user.name 'stoner'
+git config --global user.email 'carl3633524461@outlook.com'
 ```
 
 

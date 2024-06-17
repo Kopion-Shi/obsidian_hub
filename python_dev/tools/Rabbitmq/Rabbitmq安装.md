@@ -6,7 +6,7 @@ docker exec -it 容器id /bin/bash
 rabbitmq-plugins enable rabbitmq_management
 ```
 
-###### 4.安装web管理插件rabbitmq_management：
+安装web管理插件rabbitmq_management：
 
 **注意**：不安装web管理插件，通过http://ip:15672可能访问不了，或者台管理页面点击 Channels 报错，**提示Stats in management UI are disabled on this node**。
 

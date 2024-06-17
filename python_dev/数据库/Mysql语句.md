@@ -1,6 +1,9 @@
+- 登录
+
 ```mysql
 mysql -uroot -p
 登录：
+root
 123456
 ```
 

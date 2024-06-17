@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "572e97af40608358",
+        "id": "2e0da03f62a62ef9",
         "type": "tabs",
         "children": [
           {
-            "id": "9a72e0d73b39ce89",
+            "id": "c91b30bb1da74e5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/数据库/mysql/单表查询.md",
+                "file": "Django/DRF组件/DRF组件.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mysql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/数据库/mysql/单表查询.md",
+                "file": "Django/DRF组件/DRF组件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/数据库/mysql/单表查询.md",
+                "file": "Django/DRF组件/DRF组件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/数据库/mysql/单表查询.md"
+                "file": "Django/DRF组件/DRF组件.md"
               }
             }
           },
@@ -135,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -156,55 +158,55 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9a72e0d73b39ce89",
+  "active": "c91b30bb1da74e5a",
   "lastOpenFiles": [
-    "flask/images/image-20231224134855710.png",
-    "flask/images/image-20211227110323064-170339662289524.png",
-    "flask/images/image-20211227102558619-170339662289523.png",
-    "flask/images/image-20211227110308570-170339662289522.png",
-    "flask/images/image-20211227105605185-170339662289521.png",
-    "flask/images/image-20211025185200357-170339662289520.png",
-    "flask/7.http会话控制.md",
-    "flask/Untitled.md",
-    "flask/6.请求和响应.md",
-    "flask/5.flask终端运行.md",
-    "flask/4.路由.md",
-    "flask/images/image-20220928203453529-170339089273918.png",
-    "flask/3.项目创建.md",
-    "flask/images/image-20211025153740563-170339080433915.png",
-    "flask/images/image-20211025153639383-170339080433014.png",
-    "flask/2.环境 准备.md",
-    "flask/images/logo-full-170339077349111.png",
-    "flask/images/logo-full-170339077349111-170339077349112.png",
-    "flask/简介.md",
-    "flask/1.简介.md",
-    "flask/images",
-    "tools/数据库/mysql/单表查询.md",
-    "flask",
-    "tools/数据库/mysql/授权管理.md",
-    "tools/数据库/mysql/Untitled.md",
-    "tools/数据库/mysql/多表查询.md",
-    "tools/数据库/mysql/images",
-    "tools/数据库/未命名.md",
-    "tools/数据库/mysql",
-    "未命名.canvas",
-    "tools/数据库/redis/未命名",
-    "2023-12-10.md",
-    "项目实战/Vue+Drf项目系列/路飞课程/路飞学城在线教育平台/11.购物车的实现.md",
-    "项目实战/Vue+Drf项目系列/路飞课程/路飞学城在线教育平台/10.课程列表页.md",
+    "前端学习/VUE/3. 指令.md",
+    "前端学习/VUE/2. 插值表达式.md",
+    "前端学习/VUE/1.VUE启动.md",
+    "assets/image-20220525上午115622757-3450984.png.md",
+    "assets/image-20220525上午115430157-3450872.png.md",
+    "assets/image-20220525上午115358990-3450841.png.md",
+    "前端学习/未命名.md",
+    "前端学习/VUE",
+    "项目实战/uric/Uric2022.md",
+    "项目实战/uric/images/1625305034687.png",
+    "项目实战/uric/images/image-20220622165429932-5888071.png",
+    "项目实战/uric/images/image-20220622203838704-5901519.png",
+    "项目实战/uric/images/image-20220623184312459-5980993.png",
+    "项目实战/uric/images/image-20220703005121759-6780682.png",
+    "项目实战/uric/images/image-20220703151226691-6832348.png",
+    "项目实战/uric/images/image-20220703093603883-6812165.png",
+    "项目实战/uric/images/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpbndvdw==,size_16,color_FFFFFF,t_70-20211121090203572.png",
+    "项目实战/uric/images/modb_20210205_6e157488-677b-11eb-bca4-5254001c05fe.png",
+    "项目实战/uric/images/modb_20210205_6df9aa28-677b-11eb-bca4-5254001c05fe.png",
+    "项目实战/uric/images",
+    "assets",
+    "Django/项目解析.md",
+    "项目实战/uric/assets",
+    "项目实战/uric/Uric2022鏂囨。.md",
+    "项目实战/uric/Uric2022",
+    "项目实战/uric",
+    "tools/git/git介绍.md",
+    "tools/git/ignore文件的用法.md",
+    "Django/DRF组件/DRF组件.md",
+    "Django/Model.md",
+    "Django/DRF组件/assets",
+    "Django/DRF组件",
+    "项目实战/Vue+Drf项目系列/路飞课程/路飞学城在线教育平台/7.首页_Home.md",
+    "项目实战/Vue+Drf项目系列/路飞课程/路飞学城在线教育平台/1. 需求分析.md",
     "项目实战/Vue+Drf项目系列/路飞课程/路飞学城在线教育平台/99.项目部署.md",
-    "项目实战/Vue+Drf项目系列/路飞课程/路飞学城在线教育平台/ngix详解.md",
-    "项目实战/Vue+Drf项目系列/路飞课程/路飞学城在线教育平台/Untitled.md",
-    "项目实战/Vue+Drf项目系列/路飞课程/未命名.md",
-    "项目实战/Vue+Drf项目系列/路飞课程/路飞学城在线教育平台/9.用户的注册认证.md",
-    "tools/docker/Docker.md",
-    "tools/docker/搭建ubuntu开发环境.md",
-    "tools/docker/Docker安装Rabbitmq超详细教程.md",
-    "Django/images",
-    "tools/Rabbitmq/images/f109e908fc864cff8f1847f5f44ae160-16990856082892.png#pic_center",
-    "tools/Rabbitmq/images/982edc64784d40b28d47b943020c420c-16990856082891.png#pic_center",
-    "tools/Rabbitmq/images",
-    "tools/Rabbitmq",
+    "项目实战/Vue+Drf项目系列/博客园文章/24上线.md",
+    "flask/7.http会话控制.md",
+    "项目实战/Vue+Drf项目系列/路飞课程/路飞学城在线教育平台/4.后端配置.md",
+    "tools/数据库/redis/3.基础知识.md",
+    "flask/1.简介.md",
+    "项目实战/Vue+Drf项目系列/博客园文章/1.后端准备.md",
+    "项目实战/Vue+Drf项目系列/路飞课程/路飞学城在线教育平台/5.前端项目初始化.md",
+    "项目实战/Vue+Drf项目系列/路飞课程/路飞学城在线教育平台/2.环境搭建.md",
+    "flask/12.Jinja2模板引擎.md",
+    "flask/images",
+    "flask",
+    "未命名.canvas",
     "项目实战/Vue+Drf项目系列/路飞课程/路飞学城在线教育平台/未命名.canvas"
   ]
 }
